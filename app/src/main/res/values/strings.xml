@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">krishi network</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="image">image</string>
+    <string name="go_to_activity_2">Go to Activity 2</string>
+    <string name="_1121">गाज़ियाबाद - 1121</string>
+    <string name="_348">मुजफ्फरनगर - 348</string>
+    <string name="_255">सीकर - 255</string>
+    <string name="_636">हिसार - 636</string>
+    <string name="_64">लिफ्टों - 64</string>
+    <string name="enter_city_id">Enter city Id</string>
+    <string name="fetch">Fetch</string>
+</resources>
